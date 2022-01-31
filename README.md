@@ -5,7 +5,7 @@ Based on Sparsely Stacked Denoising Auto-encoders, layers of VGG16 and HSV image
 
 The main.ipynb and dataset is in Kaggle. 
 
-The model is trained using patched generated from images of iphone3GS and canon DSLR.
+The model is trained using patches generated from images of iphone3GS and canon DSLR.
 
 # To Handle
 Square Artifacts : can be handled using bilinear interpolation. Will be implemented later.
